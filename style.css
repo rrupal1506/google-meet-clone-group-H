@@ -1,0 +1,74 @@
+.container {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.852);
+    height: 650px;
+    width: 100%;
+    margin-top: 10px;
+}
+.container-1-profile{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+  
+.card{
+    height: 180px;
+    width: 320px;
+    background-color:  rgba(128, 128, 128, 0.383);
+    margin: 8px;
+    border-radius: 10px;
+}
+
+.mic{
+    margin-left: 5px;
+    height: 15px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.profile-pic{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 85px;
+    margin-top: 30px;
+}
+.container-2-activity-box{
+    background-color: white;
+    width:330px;
+    height: 550px;
+    margin-top: 20px;
+    margin-left: 250px;
+    border-radius: 15px;
+}
+
+div{
+    display: block;
+}
+
+.heading{
+    display: flex;
+    margin-top: 20px;
+}
+.close-icon{
+    margin: 200px;
+}
+.list{
+    display: flex;
+    margin-top: 40px;
+}
+.icon{
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.list-name{
+    margin-top: 30px ;
+    margin-left: 20px;
+}
+
+.list-detailes{
+    font-family: serif;
+    font-size: 15px;
+    margin-left: 5px;
+}
